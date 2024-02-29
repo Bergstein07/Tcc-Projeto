@@ -1,1 +1,1 @@
-# Tcc-Projeto
+O sistema é um jogo de história baseado na cultura de povos originários. No jogo, o personagem principal depois de escolher uma região da qual  ele pretende visitar ele recebera uma missão para ajudar as pessoas dessa região, para concluí la é necessário conversar com os habitantes para adquirir informações e concluir o objetivo
