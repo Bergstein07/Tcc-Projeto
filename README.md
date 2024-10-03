@@ -50,7 +50,7 @@ Além disso, o desempenho insatisfatório em diferentes dispositivos pode limita
 | Agosto    | Desenvolvimento da estrutura do jogo;                       |
 |           | Desenvolvimento do Web Site;                                 |
 |           | Criação do Design do jogo;                                  |
-|           | Apresentação Técnica dos projetos.                           |
+|           | Apresentação Técnica do projeto.                           |
 | Setembro  | Escrita do Artigo;                                         |
 |           | Implementação das mecânicas                                   |
 | Outubro   | Criação e implementação de personagens e diálogos;          |
