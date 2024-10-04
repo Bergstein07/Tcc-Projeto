@@ -35,7 +35,7 @@ O escopo do projeto "Raízes Originárias" abrange as seguintes áreas e ativida
 - **Versão para Desktop:** Inicialmente, o jogo será desenvolvido apenas para plataformas Windows e Linux, com possibilidade de expansão para uma versão web no futuro.
 
 ## Riscos de Projeto
-Um dos principais riscos do projeto é o atraso no cronograma, que pode impactar a entrega final do jogo. Este risco tem um impacto considerado alto (4) e uma probabilidade média (3). Para mitigar esse risco, será estabelecido um cronograma detalhado, com revisões semanais para monitorar o progresso e definir marcos e prazos claros.
+Um dos principais riscos do projeto é o atraso no cronograma, que pode impactar a entrega final do jogo. Este risco tem um impacto considerado alto e uma probabilidade média. Para mitigar esse risco, será estabelecido um cronograma detalhado, com revisões semanais para monitorar o progresso e definir marcos e prazos claros.
 
 Outro risco relevante é a baixa participação nos testes de usabilidade. Esse fator pode comprometer a validação do jogo, com um impacto moderado e uma probabilidade baixa. Para evitar isso, o projeto promoverá o jogo por meio de incentivos e buscará o envolvimento de professores para garantir a participação dos alunos.
 
