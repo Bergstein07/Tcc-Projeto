@@ -72,3 +72,6 @@ Na produção do jogo “Raízes Originárias”, adota-se a game-engine Unity, 
 Com base no planejamento e desenvolvimento adequado do jogo, espera-se construir uma ferramenta prática para o ensino pedagógico, que corresponda à problemática levantada anteriormente. Por se tratar de uma ferramenta digital para estudantes do ensino médio, a expectativa é que a experiência de interagir com o cenário, entidades, itens e mecanismos de acesso no jogo seja simples, por meio de um design bem elaborado. A aplicação da trama do jogo é esperada uma abordagem fiel e respeitosa à cultura e à história do povo Kaingang.
 
 O jogo deverá possuir duas cutscenes de introdução e finalização do objetivo principal, que deve ser desenvolvido por meio de uma fase aberta à movimentação do personagem principal e interação com o ambiente. A história deve abordar a trama de Kamé e Kairú e suas origens, passando por desafios através de um jogo de plataforma 2D, permitindo que o jogador conheça e reflita sobre a cultura e crença do povo Kaingang.
+
+## Download
+Quando concluido, o download do jogo sera disponibilizado no site **Linkdosite**
